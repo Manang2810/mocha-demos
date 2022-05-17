@@ -1,7 +1,7 @@
 {
   "name": "mocha-unit-testing-example",
   "version": "1.0.0",
-  "description": "This is a demo using mocha",
+  "description": "This IS A DEMO DEMO a demo using mocha",
   "main": "index.js",
   "directories": {
     "test": "test"
